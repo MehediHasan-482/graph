@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Excel/Office temp files
+~$*.xlsx
+~$*.pptx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Screenshots (optional)
+*.png
